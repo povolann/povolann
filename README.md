@@ -17,4 +17,4 @@ I have graduated as radiological physicst from FNSPE CTU in Prague and currently
 ### Fun Facts 🤗
 * I love (trying new) sports 🚵‍♀️🥾⚽💃🏊‍♀️⛷🏂⛸🛼🏄‍♀️🧗‍♀️🤺🏇
 * I am a huge fan of LOTR, HP, Narnia, SW and history 🧝‍♀️🧙‍♀️👸
-* [![Blog Badge](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://northeast-passage.blogspot.com/) here are some random stories from my trips around the world 🌏
+[![Blog Badge](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://northeast-passage.blogspot.com/) here are some random stories from my trips around the world 🌏
